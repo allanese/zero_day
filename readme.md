@@ -1,2 +1,2 @@
-#trial readme
--getting started with git and linux
+#readme file
+-project trial one
